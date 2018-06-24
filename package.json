@@ -1,0 +1,22 @@
+{
+  "name": "mod.js",
+  "version": "1.0.0",
+  "description": "base js",
+  "main": "mod.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xxjinwei/mod.git"
+  },
+  "author": "fex-team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xxjinwei/mod/issues"
+  },
+  "homepage": "https://github.com/xxjinwei/mod#readme"
+}
